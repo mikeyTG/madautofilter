@@ -18,11 +18,11 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/mrgbotrepair)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TroJanz](https://img.shields.io/badge/mrgbotrepair-Support-red?style=flat&logo=telegram)](https://telegram.dog/mrgbotrepair)  [![mikeyz](https://img.shields.io/badge/mikey-Website-red?style=flat&logo=CodersRank)](https://sites.google.com/view/techwrecker/home?authuser=4)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/mikeyTG/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
 
 
 
@@ -71,7 +71,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mikeyTG/madautofilter)
 
 ### Deploy in your vps
 ```sh
@@ -106,6 +106,6 @@ python3 main.py
 
 ## Credits
 
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+[![trojanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [mikey](https://telegram.dog/youtuberyt54355)
